@@ -1,1 +1,0 @@
-# php_02_ochrona_dostepu
